@@ -1,7 +1,7 @@
 # 🌍 WanderSync: A Collaborative Travel Management System ✈️
 
 ## 🚀 Project Overview
-**WanderSync** is a collaborative travel management system developed as part of the CS 2340 course. The app enables users to plan and manage trips collaboratively in real-time, providing a seamless experience for group travel planning. 🌐✨
+**WanderSync** is a collaborative travel management system. The app enables users to plan and manage trips collaboratively in real-time, providing a seamless experience for group travel planning. 🌐✨
 
 ## 🛠️ Key Features
 - **🔐 Secure Account Creation**
@@ -54,11 +54,6 @@
   - **L**iskov Substitution Principle 🔄
   - **I**nterface Segregation Principle ⚙️
   - **D**ependency Inversion Principle 🔗
-
-## 🧪 Testing
-- Minimum **two unit tests** per team member 🧑‍💻
-- Coverage for **Sprint 1** and **Sprint 2** functionalities ✅
-- **JUnit** testing framework implementation 🧪
 
 ## 🛠️ Technical Requirements
 - Android Studio 💻
