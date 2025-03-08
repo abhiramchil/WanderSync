@@ -2,6 +2,7 @@
 
 ## 🚀 Project Overview
 **WanderSync** is a collaborative travel management system. The app enables users to plan and manage trips collaboratively in real-time, providing a seamless experience for group travel planning. 🌐✨
+Original Project Link: https://github.com/JyotirS1/CS2340D_Team8
 
 ## 🛠️ Key Features
 - **🔐 Secure Account Creation**
